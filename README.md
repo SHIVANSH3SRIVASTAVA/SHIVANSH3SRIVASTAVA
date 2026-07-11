@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Shivansh Srivastava
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Full-Stack+Developer;Problem+Solver+%26+Continuous+Learner;Building+Projects+That+Matter" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;AI+%26+Full-Stack+Developer;Problem+Solver;Always+Learning+Something+New" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 <div align="center">
 
-🎓 Final Year B.Tech CSE Student
+🎓 Final Year B.Tech Computer Science Engineering Student
 
 💻 Passionate About Software Development
 
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```python
 class Shivansh:
@@ -30,7 +30,14 @@ class Shivansh:
     def __init__(self):
         self.role = "Final Year CSE Student"
         self.goal = "Software Engineer"
-        self.languages = ["Python", "Java", "C", "SQL"]
+
+        self.languages = [
+            "Python",
+            "Java",
+            "C",
+            "SQL"
+        ]
+
         self.interests = [
             "Software Engineering",
             "Artificial Intelligence",
@@ -40,38 +47,27 @@ class Shivansh:
 
     def current_focus(self):
         return [
-            "DSA",
+            "Data Structures & Algorithms",
             "Backend Development",
             "AI Applications",
-            "System Design"
+            "System Design Fundamentals"
         ]
 ```
 
 ---
 
-## 🌱 Currently Learning
+# 🎯 Current Focus
 
-- Data Structures & Algorithms
-- Backend Development
-- System Design Fundamentals
-- Machine Learning
-- Generative AI
-- Database Design
-- Software Architecture
-
----
-
-## 🔨 Currently Building
-
-- 🌾 AI-powered Agriculture Solutions
-- 🤖 Generative AI Applications
-- 📊 Data Analytics Projects
-- 💻 Full Stack Applications
-- ⚡ Productivity Tools
+- Strengthening Software Engineering Fundamentals
+- Building AI-Powered Applications
+- Practicing Data Structures and Algorithms
+- Learning Backend Development
+- Exploring Full Stack Technologies
+- Creating Real-World Projects
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### Languages
 
@@ -91,7 +87,7 @@ class Shivansh:
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
@@ -99,31 +95,29 @@ class Shivansh:
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🌾 BhoomiVaani
-
-Voice-Driven GenAI System for Crop and Weather Assistance.
+Voice-Driven GenAI system for crop and weather assistance in Hindi.
 
 ### 📄 Resume Checker
-
-AI-powered Resume Analysis Platform using FastAPI and Streamlit.
+AI-powered resume analysis platform built using FastAPI, PostgreSQL and Streamlit.
 
 ### 📊 Hadoop WordCount Dashboard
-
-Interactive Hadoop Dashboard with Visualization.
+Interactive Hadoop WordCount dashboard with data visualization.
 
 ### 🎬 Movie Recommender System
+Content-based recommendation engine with intelligent movie suggestions.
 
-Content-Based Movie Recommendation Engine.
+### 🤖 DCGAN Model
+Deep Convolutional GAN implementation using PyTorch.
 
-### 🤖 DCGAN & CGAN Projects
-
-Deep Learning Projects using PyTorch.
+### 🎨 CGAN CIFAR-10
+Conditional GAN for class-specific image generation.
 
 ---
 
-## 💡 LeetCode
+# 💡 LeetCode Progress
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/SHIVANSH__SRIVASTAVA?theme=dark&font=Karma"/>
@@ -131,70 +125,49 @@ Deep Learning Projects using PyTorch.
 
 ---
 
-## 📈 Contribution Graph
+# 🌱 Currently Learning
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHIVANSH3SRIVASTAVA&theme=tokyo-night"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-> Create this using GitHub Actions after setting up the profile repository.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-```
-
-After setup, add:
-
-```html
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SHIVANSH3SRIVASTAVA/SHIVANSH3SRIVASTAVA/output/github-contribution-grid-snake.svg">
-</p>
-```
+- Data Structures & Algorithms
+- Backend Development
+- Machine Learning
+- Generative AI
+- Database Design
+- Software Architecture
+- System Design
 
 ---
 
-## 📚 Interests
+# 💭 A Few Things About Me
 
-```text
-Artificial Intelligence
-Machine Learning
-Generative AI
-Software Engineering
-Backend Development
-Open Source
-Cloud Technologies
-```
+- 🔭 I enjoy turning ideas into working software
+- 🌱 I believe learning by building projects is the best way to grow
+- 🤝 Open to collaborating on interesting projects
+- ⚡ I enjoy solving coding challenges
+- 🎯 Working towards becoming a skilled Software Engineer
 
 ---
 
-## 🌐 Connect With Me
+# ☕ Beyond Coding
+
+- 📚 Learning something new every day
+- 🎵 Listening to music while coding
+- 🧩 Solving programming problems
+- 🚀 Exploring emerging technologies
+- 💡 Experimenting with side projects
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/shivansh3srivastava">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-## 👀 Profile Views
+# 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SHIVANSH3SRIVASTAVA&style=for-the-badge&color=blue"/>
@@ -204,16 +177,6 @@ Cloud Technologies
 
 <div align="center">
 
-### 💭 Developer Mindset
-
-> "Great software is built one commit at a time."
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Thanks for visiting my profile ⭐
+### ⭐ Thanks for Visiting My Profile ⭐
 
 </div>
